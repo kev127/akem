@@ -1,7 +1,7 @@
 
 body{
   background: #000;
-  background-image: linear-gradient(red, yellow,green)
+  background-image: linear-gradient(red, yellow,green) 
 }
 .header {
   text-align: center ;
