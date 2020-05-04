@@ -1,0 +1,26 @@
+.title{
+  color: Black;
+  font-style: "Times New Roman", Georgia, serif;
+  text-align: center;
+  font-size: 30px
+}
+.flag-section{
+  background: url("images/ghana.jpg") rgba(0,0,0,0.5);
+  background-size: cover;
+  width: 80%;
+  height: 40vh;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-blend-mode: multiply;
+}
+.header{
+  color: Black;
+  font-style: italic;
+  text-align: center;
+  font-size: 40px;
+}
+.p {
+  font-family: sans-serif;
+  font-size: 45px;
+}
