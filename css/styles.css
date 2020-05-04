@@ -1,20 +1,21 @@
-.title{
+.title {
   color: Black;
   font-style: "Times New Roman", Georgia, serif;
   text-align: center;
   font-size: 30px
 }
-.flag-section{
-  background: url("images/ghana.jpg") rgba(0,0,0,0.5);
+.flag-section {
+  background-image: url("images/ghana.jpg") rgba(0,0,0,0.5);
   background-size: cover;
-  width: 80%;
-  height: 40vh;
+  width: 60%;
+  height: 20vh;
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
   background-blend-mode: multiply;
+  position: relative;
 }
-.header{
+.akan-section {
   color: Black;
   font-style: italic;
   text-align: center;
