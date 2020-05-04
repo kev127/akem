@@ -19,7 +19,12 @@
   color: Black;
   font-style: italic;
   text-align: center;
-  font-size: 40px;
+  font-size: 40px; 
+  width: 110%;
+  height: 20vh;
+  background-attachment: fixed;
+  background-position: center;
+
 }
 .p {
   font-family: sans-serif;
